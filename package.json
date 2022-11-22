@@ -1,7 +1,8 @@
 {
-  "name": "untitled",
+  "name": "jsmcardgame",
   "version": "1.0.0",
-  "dependencies": {
-    
+  "type": "module",
+  "devDependencies": {
+    "inquirer": "^9.1.4"
   }
 }
